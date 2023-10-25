@@ -1,3 +1,3 @@
-##About The Project
+# About The Project
 
-This project use dhmi.ucusizle.gov.tr website private api for fetch flight informations.
+This project use dhmi.ucusizle.gov.tr website private api for fetch flight informations
